@@ -1,27 +1,15 @@
-/* a img{padding: 50px;} */
-/* nav ul li {height: 50px;line-height: 50px; } */
 header{padding: 30px;background-color:dimgrey;}
 nav ul li {display: inline-block;margin-left:200px;text-decoration: none;color:white ;height: 50px;line-height: 50px;}
-header a img {color: black;}
-
 main {padding: 20px;margin-left:150px;}
-main #two{padding: 30px;} 
+ 
+#two a{padding: 15px}
+main #two{padding: 30px;margin-left:-75px;}
 main p a{padding-left: 10px;}
-
-button{color: black;margin-left: 520px;position:absolute;
-    transition: .5s ease;}
-
- main div  {
-    float: left;
-    margin-right: 10px;
-    clear:both;
-}
  p {width:450px;position: relative;float: right; 
-    top: -300px;margin-right: 150px;} 
-   /* button{
-    position:absolute;
-    transition: .5s ease;
-   } */
+    top: -300px;margin-left:800px;} 
+  button{
+   margin-top: 380px;margin-left: 50px;color: black;;position:absolute;
+   transition: .5s ease;}
+ 
 footer
  {background-color: dimgrey;height: 100px;clear: both;text-align: centerm;}
- 
