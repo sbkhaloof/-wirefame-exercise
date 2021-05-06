@@ -5,11 +5,12 @@ main {padding: 20px;margin-left:150px;}
 #two a{padding: 15px}
 main #two{padding: 30px;margin-left:-75px;}
 main p a{padding-left: 10px;}
- p {width:450px;position: relative;float: right; 
-    top: -300px;margin-left:800px;} 
+ p {width:450px;position: relative; 
+    top: -300px;margin-left:550px;} 
   button{
-   margin-top: 380px;margin-left: 50px;color: black;;position:absolute;
+   margin-top: -150px;margin-left: 500px;color: black;;position:absolute;
    transition: .5s ease;}
  
+   /* #right{width: 450px;position: relative;margin-top: 300px;color: black;margin-left: auto;margin-bottom:;transition: .5s ease;} */
 footer
  {background-color: dimgrey;height: 100px;clear: both;text-align: centerm;}
